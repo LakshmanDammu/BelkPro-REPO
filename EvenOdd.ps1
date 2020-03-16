@@ -1,4 +1,4 @@
-﻿####### Even odd ######33
+## Hello World ##
 cls
 $n = Read-Host "Enter the number"
 if($n%2 -eq 0)
