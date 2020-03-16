@@ -1,0 +1,6 @@
+Black
+Blue
+Red
+Indigo
+Violet
+https://www.geeksforgeeks.org/what-is-a-git-repository/
